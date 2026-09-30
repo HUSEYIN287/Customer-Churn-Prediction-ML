@@ -1,0 +1,5 @@
+Algoritma,Genel Başarı (Accuracy) %,Kayıp Yakalama (Recall) %
+Lojistik Regresyon,82.04400283889282,59.51742627345844
+Karar Ağacı (Decision Tree),71.18523775727466,45.84450402144772
+Destek Vektör (SVM),81.40525195173882,53.35120643431635
+Rastgele Orman (Random Forest),78.85024840312278,65.68364611260054
